@@ -1,0 +1,12 @@
+{
+  "name": "test-agent",
+  "enabled": true,
+  "model": "gpt-4o",
+  "temperature": 0.5,
+  "max_tokens": 2000,
+  "timeout": 300,
+  "retry_attempts": 3,
+  "environment_vars": {},
+  "custom_settings": {},
+  "last_updated": "2025-08-15 14:58:08.775225"
+}
